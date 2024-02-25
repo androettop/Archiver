@@ -17,10 +17,7 @@ namespace DataStoreExtractor
         private static List<string> UpdateIds { get; set; }  = new List<string>();
 
         private static string[] wantedIds = new string[] {
-            "9NBLGGH2JHXJ", // Microsoft.MinecraftUWP
-	        "9P5X4QVLC2XR", // Microsoft.MinecraftWindowsBeta
             "9MVXMVT8ZKWC", // Microsoft.MinecraftUWPConsole
-	        "9MTK992XRFL2" // Microsoft.MinecraftUWPBeta
         };
 
         static async Task Main(string[] args)
