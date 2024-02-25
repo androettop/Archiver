@@ -19,7 +19,7 @@ namespace DataStoreExtractor
         private static string[] wantedIds = new string[] {
             "9NBLGGH2JHXJ", // Microsoft.MinecraftUWP
 	        "9P5X4QVLC2XR", // Microsoft.MinecraftWindowsBeta
-            "9NBLGGH537BL", // Microsoft.MinecraftUWPConsole
+            "9MVXMVT8ZKWC", // Microsoft.MinecraftUWPConsole
 	        "9MTK992XRFL2" // Microsoft.MinecraftUWPBeta
         };
 
